@@ -19,3 +19,5 @@ langchain_groq
 langchain_core
 uvicorn
 fastapi
+langserve
+sse_starlette
